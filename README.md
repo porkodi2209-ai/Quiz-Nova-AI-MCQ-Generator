@@ -24,8 +24,6 @@ QuizNova AI is a simple AI-powered quiz application built using Python, Streamli
 
 <img width="1920" height="1080" alt="Screenshot (119)" src="https://github.com/user-attachments/assets/fab3c45c-a71a-4a05-89e5-fe1ee524a80c" />
 
-<img width="1920" height="1080" alt="Screenshot (119)" src="https://github.com/user-attachments/assets/2fdc8717-c57c-418d-9146-4fe88d1d36b3" />
-
 <img width="1920" height="1080" alt="Screenshot (120)" src="https://github.com/user-attachments/assets/623f2d6e-04ae-4e99-b55d-24c7255115ba" />
 
 <img width="1920" height="1080" alt="Screenshot (121)" src="https://github.com/user-attachments/assets/3b5d47e5-0faf-48ca-8a2d-45b77204cf12" />
