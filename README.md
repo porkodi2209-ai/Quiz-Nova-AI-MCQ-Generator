@@ -36,3 +36,7 @@ QuizNova AI is a simple AI-powered quiz application built using Python, Streamli
 - Qwen2.5-72B-Instruct
 - JSON
 - Regular Expressions
+
+## Conclusion
+
+QuizNova AI demonstrates how Artificial Intelligence can be used to automate the generation and evaluation of multiple-choice questions. By integrating a Hugging Face language model with Streamlit, the application provides an interactive quiz experience with automatic answer evaluation, scoring, and explanations. This project shows the practical use of AI and Natural Language Processing in educational applications.
